@@ -41,7 +41,7 @@ footer {
     padding-bottom: 2rem;
     width: 25%;
 
-    background: var(--white);
+    background: hsl(0, 0%, 100%);
     -webkit-box-shadow: 0px 10px 18px 6px rgba(123, 135, 157,0.23);
     -moz-box-shadow: 0px 10px 18px 6px rgba(123, 135, 157,0.23);
     box-shadow: 0px 10px 18px 6px rgba(123, 135, 157,0.23);
